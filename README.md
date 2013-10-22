@@ -1,7 +1,7 @@
 FaceID
 ===========
 
-FaceID is a Computer Vision project for Computer Science 183 @ Dartmouth College.
+FaceID is a Computer Vision project done in the Fall of 2013 for Computer Science 183 @ Dartmouth College.
 
 Description
 -
