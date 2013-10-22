@@ -1,0 +1,7 @@
+# Temporary files #
+###################
+*.m~
+
+# OS generated files #
+######################
+.DS_Store
