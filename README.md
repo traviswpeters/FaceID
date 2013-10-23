@@ -1,5 +1,6 @@
 FaceID
 ===========
+Revised Oct. 23, 2013
 
 FaceID is a Computer Vision project done in the Fall of 2013 for Computer Science 183 @ Dartmouth College.
 
