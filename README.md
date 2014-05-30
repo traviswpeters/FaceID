@@ -28,7 +28,8 @@ Testing
 License
 --
 
-Co-Author:: Haider Syed <>
+Co-Author:: Haider Syed <haider.syed@dartmouth.edu>
+
 Co-Author:: Travis Peters <traviswp@gmail.com>
 
 Copyright:: Copyright (c) 2013
